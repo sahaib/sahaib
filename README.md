@@ -31,6 +31,8 @@
 - [AnyChatFrontend](https://github.com/sahaib/AnyChatFrontend) - AI Chrome Extension for webpage content chat
 - [PolirizerBackend](https://github.com/sahaib/PolirizerBackend) - Flask-based API service for text summarization
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahaib&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🌐 Connect with me
 
 <p align="center">
