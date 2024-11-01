@@ -33,6 +33,7 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahaib&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌐 Connect with me
 
 <p align="center">
@@ -43,3 +44,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sahaib&color=blueviolet" alt="Profile Views" />
 </div>
+
+![Snake animation](https://github.com/sahaib/sahaib/blob/output/github-contribution-grid-snake.svg)
+
