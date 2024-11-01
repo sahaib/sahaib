@@ -25,6 +25,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahaib&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+
 ## 🏆 Notable Projects
 
 - [Polirizer](https://github.com/sahaib/Polirizer) - Chrome extension that simplifies complex privacy policies using AI
@@ -45,5 +46,4 @@
   <img src="https://komarev.com/ghpvc/?username=sahaib&color=blueviolet" alt="Profile Views" />
 </div>
 
-![Snake animation](https://github.com/sahaib/sahaib/blob/output/github-contribution-grid-snake.svg)
 
