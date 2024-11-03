@@ -33,7 +33,7 @@
 - [PolirizerBackend](https://github.com/sahaib/PolirizerBackend) - Flask-based API service for text summarization
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahaib&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahaib&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Connect with me
 
