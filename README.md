@@ -15,6 +15,16 @@
   <!-- Add more relevant tech badges -->
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaib&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 🎯 Current Focus
+- 🔭 I'm currently working on **AI-powered productivity tools**
+- 🌱 I'm currently learning **LLM Fine-tuning & Prompt Engineering**
+- 👯 I'm looking to collaborate on **Open Source AI Projects**
+- 💬 Ask me about **AI, Python, Full Stack Development**
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -25,6 +35,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahaib&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+## 💻 Skills & Tools
+
+### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## 🏆 Notable Projects
 
@@ -34,6 +58,9 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahaib&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎵 Now Playing on Spotify
+[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/sahaibsingh001)
 
 ## 🌐 Connect with me
 
@@ -46,4 +73,7 @@
   <img src="https://komarev.com/ghpvc/?username=sahaib&color=blueviolet" alt="Profile Views" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
