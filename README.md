@@ -59,8 +59,8 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahaib&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🎵 Now Playing on Spotify
-[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/sahaibsingh001)
+### 🎵 Recently Played on Spotify
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=sahaibsingh001&unique=true)](https://open.spotify.com/user/sahaibsingh001)
 
 ## 🌐 Connect with me
 
