@@ -57,8 +57,8 @@
 
 ## 🏆 Notable Projects
 
+- [minitools.dev](https://github.com/sahaib/minitools) - Open source Marketplace for developers and designers.
 - [Polirizer](https://github.com/sahaib/Polirizer) - Chrome extension that simplifies complex privacy policies using AI
-- [AnyChatFrontend](https://github.com/sahaib/AnyChatFrontend) - AI Chrome Extension for webpage content chat
 - [PolirizerBackend](https://github.com/sahaib/PolirizerBackend) - Flask-based API service for text summarization
 
 ## 🏆 GitHub Trophies
